@@ -128,4 +128,4 @@ const Add = () => {
   )
 }
 
-export default Ad
+export default Add
